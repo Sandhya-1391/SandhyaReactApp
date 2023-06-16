@@ -9,7 +9,7 @@ const SingleCardProduct = ({product}) => {
   <div class="card-body">
     <h5 class="card-title">{title}</h5>
     <p class="card-text">{description}</p>
-    <a href="#" class="btn btn-primary">Add To Card</a>
+    <button>Add To Card</button>
   </div>
 </div>
 

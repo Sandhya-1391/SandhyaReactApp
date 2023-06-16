@@ -33,9 +33,9 @@ const Product = () => {
 
 
     }
-const getProductByCat = async() =>{
+// const getProductByCat = async() =>{
 
-}
+// }
     const fetchProduct = async (category) => {
         setCurrentCat(category)
         setLoad(true)
@@ -57,7 +57,7 @@ const getProductByCat = async() =>{
         <>
             <h2>Product</h2>
             {Catagerie.map((category, index) => {
-                return <button className={`${category==currentCat ? "btnactive" : ""}`} onClick={()=>fetchProduct(category)} key={index}>{category}</button>
+                return <button className={`${category===currentCat ? "btnactive" : ""}`} onClick={()=>fetchProduct(category)} key={index}>{category}</button>
             })}
             {
                 load ?

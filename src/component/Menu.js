@@ -3,9 +3,9 @@ import { NavLink } from 'react-router-dom';
 
 const Menu = ({ darkMode, setDarkMode }) => {
 
-  const toggleDarkMode = () => {
-    setDarkMode(!darkMode);
-  }
+  // const toggleDarkMode = () => {
+  //   setDarkMode(!darkMode);
+  // }
 
   return (
     <div className={darkMode ? "darkNav" : "lightNav"}>
