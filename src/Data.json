@@ -1,0 +1,35 @@
+[
+    {
+        "Name":"Sandhya",
+        "Father_Name":"Shailendra pandey",
+        "Mother_Name":"parvati pandey",
+        "Education":"BSC Computer Science"  
+    },
+
+    {
+        "Name":"Suraj pandey",
+        "Father_Name":"Shailendra pandey",
+        "Mother_Name":"parvati pandey",
+        "Education":"BSC Computer Science"
+    },
+    {
+        "Name":"vikas pandey",
+        "Father_Name":"Shailendra pandey",
+        "Mother_Name":"parvati pandey",
+        "Education":"BSC Computer Science"
+    },
+    {
+        "Name":"Shreya pandey",
+        "Father_Name":"Pravin pandey",
+        "Mother_Name":"Nitu pandey",
+        "Education":"BSC Maths"
+    },
+    {
+        "Name":"vikas pandey",
+        "Father_Name":"Pravin pandey",
+        "Mother_Name":"Nitu pandey",
+        "Education":"BSC Maths"
+        
+
+    }
+]
